@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c64b6153-c961-46e1-bc3d-96db0d5e5f83" name="Default" comment="Class to contain all constant values">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/BusinessImpl/RestConstants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/BusinessImpl/WeatherInfoImpl.java" afterPath="$PROJECT_DIR$/src/main/java/BusinessImpl/WeatherInfoImpl.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -112,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/main/java/BusinessImpl/AppStart.java" />
         <option value="$PROJECT_DIR$/src/main/java/BusinessImpl/WeatherInfoImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/BusinessImpl/RestConstants.java" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -521,6 +521,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
